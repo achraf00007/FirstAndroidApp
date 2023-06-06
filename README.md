@@ -1,2 +1,2 @@
 # FirstAndroidApp
-Convert euro to dirhams
+Convert euro to dirhams & météo
